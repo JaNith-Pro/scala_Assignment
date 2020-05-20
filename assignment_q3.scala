@@ -11,7 +11,7 @@ object assignment_q3{
    def main(args: Array[String]) {  
     var oneprice=24.95*60/100
     var x=60;
-    if(x < 51){
+    if(x <51){
         println("price is "+cost(x,oneprice))
     }else{
          println("price is "+cost1(x,oneprice));
