@@ -1,4 +1,4 @@
-object assignment_q3 {
+object assignment_q2 {
 
    def main(args: Array[String]) {  
         
