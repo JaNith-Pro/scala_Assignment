@@ -1,4 +1,4 @@
-object assignment_q2{
+object assignment_q3{
     
        def cost(x:Int,oneprice:Double):Double={
              return x*oneprice+3
